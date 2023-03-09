@@ -1,7 +1,7 @@
 {
   "name": "usermind-react",
   "source": "src/index.ts",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "The usermind widget for collecting feedback from React apps",
   "main": "./dist/index.umd.js",
   "module": "./dist/index.module.js",
@@ -34,7 +34,7 @@
   "bugs": {
     "url": "https://github.com/oybekalimat/usermind-react/issues"
   },
-  "homepage": "https://github.com/oybekalimat/usermind-react#readme",
+  "homepage": "https://usermind.app",
   "devDependencies": {
     "@babel/preset-env": "^7.20.2",
     "@babel/preset-react": "^7.18.6",
