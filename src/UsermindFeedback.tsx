@@ -1,7 +1,7 @@
 import React, { ReactNode, Fragment } from "react";
 import { useUsermindFeedback } from "./useUsermindFeedback";
 
-const scriptSrc = "https://feedback-o1ma.vercel.app/usermind.js";
+const scriptSrc = "https://usermind.app/usermind.js";
 
 type Props = {
   projectId: string;
